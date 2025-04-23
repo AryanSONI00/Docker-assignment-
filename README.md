@@ -21,6 +21,13 @@ Streamlit-Postgres-Docker/
 
 ---
 
+## ALL the screen Shots
+
+![Alt Text](images\Screenshot 2025-04-23 171344.png)
+![Alt Text](images\Screenshot 2025-04-23 171439.png)
+![Alt Text](images\Screenshot 2025-04-23 171448.png)
+![Alt Text](images\Screenshot 2025-04-23 171502.png)
+
 ## 🏗 Setting Up PostgreSQL in Docker
 
 ### 1️⃣ Pull the PostgreSQL Docker Image
